@@ -98,12 +98,11 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 ### Resultado Final :white_check_mark:
 ***
- ![Site 1](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Site-1.png?token=GHSAT0AAAAAABVYWOHHMO34IJF3ZELJHJMAYYLMPIQ)
- ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Site-2.png?token=GHSAT0AAAAAABVYWOHGKRJNKNTNK7HSA4C2YYLMP7A)
- ![Site 1]()
- ![Site 1]()
+ ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
+ ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
+
 
  
-Acesse o site você mesmo [League Of Legends:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.html)
+Acesse o site você mesmo [MUNDO INVERTIDO:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.html)
 ***
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
