@@ -33,7 +33,7 @@
 
       <section id="section-inverted-world" class="container">
         <div class="section-texts">
-          <h1>O Mundo Invertido</h1>
+          <h2>O Mundo Invertido</h2>
           <p role="text">
             O Mundo Invertido parece uma cópia do nosso mundo, mas com criaturas
             horrendas, tempestades assustadoras, muita escuridão e entidades
@@ -103,7 +103,7 @@
           <h3>Entre para o clube de D&D e tenha experiências de <span>outro mundo<span></span></h3>
 
           <div class="form-container">
-            <form>
+            <form action="">
               <label for="txtName">Nome Completo</label>
               <input type="text" name="name" id="txtName">
           
@@ -111,14 +111,13 @@
               <input type="email" name="email" id="txtEmail">
           
               <label for="txtLevel">Level</label>
-              <input type="text" name="level" id="txtLevel">
+              <input type="number" name="level" id="txtLevel">
           
               <label for="txtCharacter">Personagem</label>
               <textarea name="character" cols="30" rows="10" id="txtCharacter"></textarea>
             
               <button type="button" id="btnSubscribe">Me inscrever</button>
             </form>
-            <script type="module" src="/assets/js/main.js"></script>
           </div>
         </div>
       </section>
@@ -154,5 +153,7 @@
         audio.volume = 0.2;
       }
     </script>
+
+    <script src="/assets/js/main.js" type="module"></script>
   </body>
 </html>
