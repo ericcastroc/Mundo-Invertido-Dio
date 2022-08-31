@@ -110,6 +110,6 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 
  
-Acesse o site você mesmo [MUNDO INVERTIDO:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.html)
+Acesse o site você mesmo [MUNDO INVERTIDO:beginner:](https://ericcastroc.github.io/Mundo-Invertido-Dio/indes.html)
 ***
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
